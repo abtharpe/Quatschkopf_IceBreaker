@@ -1,26 +1,28 @@
-Raesfeld - a municipality in the district of Borken in the state of North Rhine-Westphalia, Germany. 
-Flughafen - airport
-Berlin -  the capital and largest city of Germany, both by area and by population.
-Bratwurst - a type of German sausage made from pork or, less commonly, beef or veal.
-Hauptstrasse - is the central street of Heidelberg's old town, the Altstadt, running the full length of the quarter. Today, it is a pedestrianised zone and popular shopping street. 
-Brot - bread 
-Klimaanlage - air conditioning 
-Rammstein - a German Neue Deutsche Härte band formed in Berlin in 1994. 
-Porsche - a German automobile manufacturer specializing in luxury, high-performance sports cars, SUVs and sedans, headquartered in Stuttgart, Baden-Württemberg, Germany.
-BMW - a German multinational manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. 
-Biergarten - beer garden 
-Ratskeller - a name in German-speaking countries for a bar or restaurant located in the basement of a city hall (Rathaus) or nearby.
-Dirndel - a feminine dress which originated in German-speaking areas of the Alps. 
-Lederhose - the traditional leather breeches worn by men in South-Germany, Austria, Bavaria (namely Upper Bavaria), South Tyrol and Slovenia.
-Schloss - a castle or palace 
-wettbewerbsfaehig - competitive 
-Mehlhase - Instructors sur name
-Gebaeck - cookies/biscuts
-Baeckerei - Bakery 
-Hund - dog 
-Doener - a dish of Turkish origin made of meat cooked on a vertical rotisserie. It is very popular in Germany. 
-Apfelkuchen - apple pie
-Schloss - castle 
-Eltz - a medieval castle nestled in the hills above the Moselle between Koblenz and Trier, Germany.
+German Word          English Definition
+-------------------------------------------
+Apfelkuchen          Apple pie
+Baeckerei            Bakery
+Biergarten           Beer garden
+Berlin               The capital and largest city of Germany, both by area and by population.
+BMW                  A German multinational manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.
+Bratwurst            A type of German sausage made from pork or, less commonly, beef or veal.
+Brot                 Bread
+Doener               A dish of Turkish origin made of meat cooked on a vertical rotisserie. It is very popular in Germany.
+Dirndel              A feminine dress which originated in German-speaking areas of the Alps.
+Eltz                 A medieval castle nestled in the hills above the Moselle between Koblenz and Trier, Germany.
+Flughafen            Airport
+Gebaeck              Cookies/biscuits
+Hauptstrasse         The central street of Heidelberg's old town, the Altstadt, running the full length of the quarter. Today it is a pedestrianized zone and popular shopping street.
+Hund                 Dog
+Klimaanlage          Air conditioning
+Lederhose            The traditional leather breeches worn by men in South-Germany, Austria, Bavaria (namely Upper Bavaria), South Tyrol and Slovenia.
+Mehlhase             Instructor's surname
+Porsche              A German automobile manufacturer specializing in luxury, high-performance sports cars, SUVs and sedans, headquartered in Stuttgart, Baden-Württemberg, Germany.
+Raesfeld             A municipality in the district of Borken in the state of North Rhine-Westphalia, Germany.
+Rammstein            A German Neue Deutsche Härte band formed in Berlin in 1994.
+Ratskeller           A name in German-speaking countries for a bar or restaurant located in the basement of a city hall (Rathaus) or nearby.
+Schloss              A castle or palace
+wettbewerbsfaehig    Competitive
+-------------------------------------------
 
 Dr. Mehlhase is very proud of two things from what I can tell, that is being German, and her cute little hund. 
